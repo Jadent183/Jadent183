@@ -3,9 +3,8 @@
 
 ---   
 
-<p align="center"> <b>  A passionate software engineer from Arizona State University
-</b>
-</p>
+                                         A passionate software engineer from Arizona State University
+
 
 
 
