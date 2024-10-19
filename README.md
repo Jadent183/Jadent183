@@ -1,7 +1,5 @@
 
-### Hi 👋, I'm Jaden Thomas
-
----   
+## Hi 👋, I'm Jaden Thomas
 
  **A passionate software engineer from Arizona State University**
 
